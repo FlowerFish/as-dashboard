@@ -12,7 +12,7 @@ st.set_page_config(layout="wide", page_title="汽車銷售綜合圖解儀表板"
 st.markdown("<div style='height: 20px;'></div>", unsafe_allow_html=True)
 
 # 標題與描述
-st.title("🚗 汽車銷售綜合圖解式分析儀表板")
+st.title("🚗 汽車銷售視覺化分析 (儀表板)")
 st.markdown("""
 - **設計:  Aries Yeh  V1.1**
 - 整合銷售趨勢、產品表現、顧客行為、市場分布、價格策略、庫存管理、市場競爭、營銷效果、顧客反饋及進階分析
