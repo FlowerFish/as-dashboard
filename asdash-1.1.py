@@ -18,6 +18,11 @@ st.markdown("""
 - 整合銷售趨勢、產品表現、顧客行為、市場分布、價格策略、庫存管理、市場競爭、營銷效果、顧客反饋及進階分析
 """)
 
+st.markdown(
+    '<a href="https://auto-sales2-cb6fevkyg2ou5t9fd53sov.streamlit.app/" style="font-size:32px;">請點擊這裡👉🏻演示線上👈</a>',
+    unsafe_allow_html=True
+)
+
 # 應用 CSS 樣式，增加頂部內邊距
 st.markdown("""
     <style>
