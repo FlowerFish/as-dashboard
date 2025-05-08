@@ -6,7 +6,7 @@ from datetime import datetime
 import numpy as np
 
 # 頁面配置
-st.set_page_config(layout="wide", page_title="汽車銷售綜合圖解儀表板")
+st.set_page_config(layout="wide", page_title="汽車銷售視覺化分析 (儀表板)")
 
 # 添加頂部緩衝區以避免內容被遮蓋
 st.markdown("<div style='height: 20px;'></div>", unsafe_allow_html=True)
